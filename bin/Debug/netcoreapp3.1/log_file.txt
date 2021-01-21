@@ -1,0 +1,13 @@
+2021-01-21 15:36:09.9963|INFO|Events.Program|Program started
+2021-01-21 15:36:12.6465|INFO|Events.Program|Program ended
+2021-01-21 16:15:21.1907|INFO|Events.Program|Program started
+2021-01-21 16:15:22.6747|INFO|Events.Program|Program ended
+2021-01-21 16:24:06.5968|INFO|Events.Program|Program started
+2021-01-21 16:24:09.4282|ERROR|Events.Program|An error occurred while updating the entries. See the inner exception for details.
+2021-01-21 16:24:09.4282|INFO|Events.Program|Program ended
+2021-01-21 16:24:44.3922|INFO|Events.Program|Program started
+2021-01-21 16:24:46.1759|ERROR|Events.Program|An error occurred while updating the entries. See the inner exception for details.
+2021-01-21 16:24:46.1759|INFO|Events.Program|Program ended
+2021-01-21 16:25:06.2033|INFO|Events.Program|Program started
+2021-01-21 16:25:07.4754|ERROR|Events.Program|Invalid object name 'Locations'.
+2021-01-21 16:25:07.4754|INFO|Events.Program|Program ended
